@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ibrahim",
+      "email": "ibrahim@gmail.com",
+      "contact": 453588
+    },
+    {
+      "id": 3,
+      "name": "Mohamed",
+      "email": "mohamed@gmmail.com",
+      "contact": 9999
+    },
+    {
+      "id": 4,
+      "name": "update",
+      "email": "AbdelDjalil@gmail.com",
+      "contact": 98744
+    },
+    {
+      "id": 5,
+      "name": "Zaki",
+      "email": "zaki@gmail.com",
+      "contact": 56
+    },
+    {
+      "id": 6,
+      "name": "Ismail",
+      "email": "ismail@gmail.com",
+      "contact": 333
+    },
+    {
+      "id": 7,
+      "name": "Karim",
+      "email": "karim@gmail.com",
+      "contact": 88
+    },
+    {
+      "id": 8,
+      "name": "AbdelDjalil",
+      "email": "abdeldjalil@gmail.com",
+      "contact": 986
+    },
+    {
+      "id": 9,
+      "name": "akram",
+      "email": "akram@gmail.com",
+      "contact": 445789900
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
